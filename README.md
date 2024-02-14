@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./header-gif.gif" width="100"/>
+  <img src="./header-gif-2.gif" width="100"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/aneeq-akbar/" target="_blank">
