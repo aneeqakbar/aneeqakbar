@@ -35,6 +35,8 @@
   
 </div>
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -67,25 +69,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aneeqakbar&theme=highcontrast&border_radius=4.6&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeqakbar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**aneeqakbar/aneeqakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aneeqakbar&theme=highcontrast&border_radius=4.6&exclude_days=Sun%2CSat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeqakbar&layout=compact&theme=vision-friendly-dark" />
+</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
